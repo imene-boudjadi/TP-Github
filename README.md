@@ -1,3 +1,3 @@
 # TP-Github
 
-This TP is about using Git and GitHub to manage changes in an API project. It teaches how to work together as a team and make the most of GitHub's tools.
+This TP is centered around using Git and GitHub for managing changes in an API project, emphasizing teamwork and maximizing the use of GitHub's tools.
